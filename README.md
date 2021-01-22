@@ -4,7 +4,7 @@
 
 ## ![quem somos](https://user-images.githubusercontent.com/65238795/105506880-4d3cf100-5ca9-11eb-9927-6f344a37ac30.PNG)
 
-##![contatos](https://user-images.githubusercontent.com/65238795/105506991-6e054680-5ca9-11eb-8a89-24a85b6efc7d.PNG)
+## ![contatos](https://user-images.githubusercontent.com/65238795/105506991-6e054680-5ca9-11eb-8a89-24a85b6efc7d.PNG)
 
 
 ## :rocket: Tecnologias
