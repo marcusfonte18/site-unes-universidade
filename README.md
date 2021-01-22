@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  
  ## :computer: Projeto
 
-Site construido somente com HTML5, inspirado no curso de Desenvolvimento Web da Udemy: https://www.udemy.com/course/web-completo/
+Site construído somente com HTML5, inspirado no curso de Desenvolvimento Web da Udemy: https://www.udemy.com/course/web-completo/
 
 ## :thinking: Como contribuir
 
