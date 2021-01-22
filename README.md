@@ -12,12 +12,12 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
  - HTML5
  - TABLE
+ - FORM
  
  
  ## :computer: Projeto
 
 Site construido somente com HTML5, inspirado no curso de Desenvolvimento Web da Udemy: https://www.udemy.com/course/web-completo/
-<br>Visualizar site: [![Netlify Status](https://api.netlify.com/api/v1/badges/236e9b80-0b26-4cb9-91a8-eccceca92953/deploy-status)](https://app.netlify.com/sites/site-somente-em-html/deploys)
 
 ## :thinking: Como contribuir
 
